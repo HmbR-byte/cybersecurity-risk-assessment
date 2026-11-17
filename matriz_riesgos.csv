@@ -1,0 +1,5 @@
+Activo,Amenaza,Vulnerabilidad,Probabilidad,Impacto,Puntaje,Nivel,Control propuesto
+Cuentas de usuario,Acceso no autorizado,Sin MFA,3,3,9,Alto,Implementar MFA y revisar accesos
+Estaciones Windows,Malware,Actualizaciones pendientes,3,2,6,Alto,Aplicar parches y monitoreo EDR
+Respaldos,Perdida de informacion,Sin pruebas de restauracion,2,3,6,Alto,Probar restauraciones periodicas
+Documentos internos,Exposicion accidental,Permisos excesivos,2,2,4,Medio,Aplicar minimo privilegio
